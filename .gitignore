@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/tem1_reference.fasta
+data/processed/*
+!data/processed/.gitkeep
+!models/.gitkeep
+.streamlit/secrets.toml

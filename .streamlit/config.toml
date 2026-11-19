@@ -1,0 +1,15 @@
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[server]
+address = "127.0.0.1"
+headless = true
+
+[theme]
+base = "light"
+primaryColor = "#3478f6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f8fd"
+textColor = "#172b4d"
+font = "sans serif"
